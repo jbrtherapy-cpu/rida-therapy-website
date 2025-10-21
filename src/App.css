@@ -39,7 +39,20 @@ body {
   color: var(--primary-color);
   text-decoration: none;
 }
-.nav-links a {
+
+/* --- START: MOBILE MENU STYLES --- */
+.hamburger {
+  display: none; /* Hidden by default on large screens */
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.nav-links {
+  display: flex;
+}
+.nav-links a, .nav-links a:visited {
   margin-left: 25px;
   text-decoration: none;
   color: var(--dark-text);
@@ -49,6 +62,34 @@ body {
 .nav-links a:hover {
   color: var(--primary-color);
 }
+/* This is the media query for mobile devices */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block; /* Show the hamburger icon */
+  }
+  .nav-links {
+    display: none; /* Hide the nav links by default */
+    flex-direction: column;
+    position: absolute;
+    top: 68px; /* Position it below the header */
+    right: 0;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-top: 1px solid #eee;
+  }
+  .nav-links.open {
+    display: flex; /* Show the menu when the 'open' class is added */
+  }
+  .nav-links a, .nav-links a:visited {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+  }
+}
+/* --- END: MOBILE MENU STYLES --- */
+
 section {
   padding: 80px 0;
 }
@@ -64,7 +105,7 @@ section h2 {
   padding: 100px 0;
 }
 .hero h1 {
-  font-size: 2.8rem;
+  font-size: 3.2rem;
   margin-bottom: 20px;
 }
 .hero p {
@@ -91,16 +132,16 @@ section h2 {
   display: flex;
   align-items: center;
   gap: 50px;
-  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  flex-wrap: wrap; 
 }
 .about-text {
   flex: 2;
-  min-width: 300px; /* Ensures text has enough space */
+  min-width: 300px; 
 }
 .about-image {
   flex: 1;
   text-align: center;
-  min-width: 280px; /* Ensures image has enough space */
+  min-width: 280px; 
 }
 .about-image img {
   width: 100%;
