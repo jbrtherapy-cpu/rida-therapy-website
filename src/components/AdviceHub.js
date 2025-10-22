@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; // Import Link
 
 function AdviceHub() {
   return (
@@ -8,7 +9,8 @@ function AdviceHub() {
         <p>
           Sometimes, the first step is simply learning more. I've created a library of free, practical guides to help you understand your feelings and discover tools for a healthier mind. Explore resources on anxiety, stress, relationships, and guidance rooted in Islamic psychology.
         </p>
-        <a href="#contact" className="cta-button">Visit the Advice Hub</a>
+        {/* This now links to your new page */}
+        <Link to="/advice-hub" className="cta-button">Visit the Advice Hub</Link>
       </div>
     </section>
   );
