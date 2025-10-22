@@ -1,26 +1,21 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import Philosophy from './components/Philosophy';
-import About from './components/About';
-import AdviceHub from './components/AdviceHub';
-import Contact from './components/Contact';
+import HomePage from './pages/HomePage';
+import AdviceHubPage from './pages/AdviceHubPage';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <main>
-        <Hero />
-        <Services />
-        <Philosophy />
-        <About />
-        <AdviceHub />
-        <Contact />
-      </main>
-    </div>
+    <Router>
+      <div className="App">
+        <Header />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/advice-hub" element={<AdviceHubPage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
