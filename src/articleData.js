@@ -196,12 +196,12 @@ export const articleData = [
           <li><strong>Seek Support Through Community:</strong> Islam emphasizes the importance of community (Ummah). Lean on fellow believers, counselors, and support networks to help you grow in your practice of Rida.</li>
         </ul>
 
-        <h3>The Psychological Benefits of Rida in Counseling</h3>
+        <h3>The Psychological Benefits of Rida in counselling</h3>
         <p>
           For those experiencing emotional or psychological distress, Rida can be an important therapeutic tool. Counselors can incorporate Islamic psychological techniques, including Rida, into their sessions to help clients navigate their struggles with a sense of peace and acceptance.
         </p>
         <p>
-          In a counseling context, Rida helps individuals let go of feelings of resistance toward their challenges. Rather than becoming consumed by frustration, grief, or anger, clients can be guided toward finding peace in their situation, however difficult it may seem. The process involves helping clients reframe their perspectives, learn self-compassion, and connect deeply with their inner faith.
+          In a counselling context, Rida helps individuals let go of feelings of resistance toward their challenges. Rather than becoming consumed by frustration, grief, or anger, clients can be guided toward finding peace in their situation, however difficult it may seem. The process involves helping clients reframe their perspectives, learn self-compassion, and connect deeply with their inner faith.
         </p>
 
         <h3>Conclusion: A Path to True Wellbeing</h3>
@@ -209,7 +209,7 @@ export const articleData = [
           Rida, or contentment, as outlined in Islamic psychology, provides a transformative path to emotional, mental, and spiritual wellbeing. By learning to embrace life’s challenges with grace and trust in Allah’s plan, we cultivate a sense of peace that permeates every aspect of our existence. It is a process that nurtures the heart, mind, and soul, leading to a more balanced and harmonious life.
         </p>
         <p>
-          For those seeking support on their journey to wellbeing, understanding and incorporating Rida into counseling can be a powerful tool. It is through this spiritual practice of contentment that we can experience true peace, resilience, and fulfillment in both the mundane and the extraordinary moments of our lives.
+          For those seeking support on their journey to wellbeing, understanding and incorporating Rida into counselling can be a powerful tool. It is through this spiritual practice of contentment that we can experience true peace, resilience, and fulfillment in both the mundane and the extraordinary moments of our lives.
         </p>
       </>
     )
