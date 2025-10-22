@@ -106,18 +106,175 @@ export const articleData = [
     </>
   )
 },
+{
+  slug: 'foundations-of-a-stronger-relationship',
+  title: 'Foundations of a Stronger Relationship',
+  summary: 'Discover key foundations that strengthen relationships — from emotional safety and communication to empathy, respect, and shared spiritual connection.',
+  content: (
+    <>
+      <p>
+        Every relationship goes through moments of connection and disconnection. What often determines whether a couple grows closer or drifts apart is not the absence of conflict, but how they navigate it. 
+      </p>
 
-  {
-    slug: 'stronger-relationships',
-    title: 'Foundations of a Stronger Relationship',
-    summary: 'Explore key communication and connection strategies to help you and your partner feel like a team again.',
-    content: (
-      <>
-        <p>Strong relationships are built on a foundation of trust, communication, and mutual respect. Here's where to start.</p>
-        <p><strong>(Full article content will go here...)</strong></p>
-      </>
-    )
-  },
+      <p>
+        In relationship counselling, we often focus on building stronger foundations — emotional, psychological, and spiritual — so that both partners feel seen, valued, and safe. Below are some key principles that can nurture a healthy, resilient relationship.
+      </p>
+
+      <h3>1. Emotional Safety Comes First</h3>
+      <p>
+        Emotional safety is the cornerstone of any strong relationship. It means both partners can express themselves honestly without fear of judgment, dismissal, or ridicule. Without this sense of safety, communication and intimacy tend to shut down.
+      </p>
+      <p>
+        <strong>Try this:</strong> When tension arises, pause and check your tone and body language. Instead of reacting from defensiveness, try saying, “I want to understand you,” or “I’m finding this hard to hear, but I’m listening.” These phrases signal safety and openness.
+      </p>
+      <p>
+        In Islam, the Prophet ﷺ described believers as “a mirror to one another” — a reminder that compassion and gentleness allow both hearts to reflect truth without harm.
+      </p>
+
+      <h3>2. Communicate to Connect, Not to Win</h3>
+      <p>
+        Many arguments escalate not because of the issue itself, but because partners feel unheard or invalidated. Healthy communication is less about proving a point and more about <strong>building understanding</strong>.
+      </p>
+      <p>
+        <strong>Try this:</strong> Use “I feel” statements rather than “you always” or “you never.” For example: “I feel overlooked when plans change last minute,” instead of “You never think of me.” This approach reduces defensiveness and invites empathy.
+      </p>
+      <p>
+        As the Qur’an advises, <em>“And speak to people good words.”</em> (2:83) — reminding us that how we speak can either heal or harm.
+      </p>
+
+      <h3>3. Empathy Over Ego</h3>
+      <p>
+        At the root of many relationship struggles lies the tension between protecting oneself and opening up to another’s perspective. Empathy bridges this gap. It means stepping into your partner’s world — not to agree with everything, but to understand what something feels like for them.
+      </p>
+      <p>
+        <strong>Try this:</strong> When your partner shares a feeling, resist the urge to fix it or defend yourself. Instead, reflect back what you hear: “You’re feeling hurt because it seemed like I didn’t care — is that right?” This simple act often defuses tension and rebuilds trust.
+      </p>
+      <p>
+        Emotionally, empathy says: “You matter to me.” Spiritually, it’s a form of mercy — <em>rahmah</em> — which Allah praises as a defining trait of loving relationships.
+      </p>
+
+      <h3>4. Shared Values and Meaning</h3>
+      <p>
+        Relationships thrive when they have a shared sense of purpose. Whether it’s raising children, serving the community, or growing in faith together, shared values give direction when emotions fluctuate.
+      </p>
+      <p>
+        Counselling often reveals that couples who consciously align their values experience fewer misunderstandings and more teamwork. They’re not just reacting to life — they’re co-creating a meaningful path forward.
+      </p>
+      <p>
+        <strong>Try this:</strong> Sit together and discuss what matters most to each of you. What do you both want your home to feel like? What kind of couple do you want to be? Revisiting these conversations renews connection and purpose.
+      </p>
+
+      <h3>5. Repair, Don’t Repeat</h3>
+      <p>
+        Every couple argues. What makes the difference is whether they repair afterwards. Repair means taking responsibility, expressing care, and learning from the moment — rather than letting resentment grow.
+      </p>
+      <p>
+        <strong>Try this:</strong> When things calm down, say, “I’m sorry for how I spoke earlier — I was frustrated, but I care about you.” Even if the issue isn’t fully resolved, this gesture reaffirms safety and love.
+      </p>
+      <p>
+        The Prophet ﷺ said, <em>“The best of you are those who are best to their families.”</em> (Tirmidhi) — a powerful reminder that character is tested not in public, but in how we treat those closest to us.
+      </p>
+
+      <h3>In Summary</h3>
+      <p>
+        Strong relationships aren’t built on perfection, but on humility, patience, and repair. When both partners feel emotionally safe, communicate with kindness, and share a sense of purpose, connection naturally deepens.
+      </p>
+      <p>
+        Whether you’re rebuilding after conflict or simply wanting to strengthen your bond, remember: every small act of gentleness and understanding adds another brick to the foundation of a lasting relationship.
+      </p>
+      <p>
+        As Allah reminds us: <em>“He created for you spouses from among yourselves, that you may find tranquility in them, and He placed between you love and mercy.”</em> (30:21)
+      </p>
+    </>
+  )
+},
+{
+  slug: 'how-to-rebuild-trust-after-conflict',
+  title: 'How to Rebuild Trust After Conflict',
+  summary: 'Practical and compassionate steps to help couples repair connection and rebuild trust after hurt or misunderstanding.',
+  content: (
+    <>
+      <p>
+        Conflict is a natural part of any relationship. But when words cut deep or actions break trust, it can leave both people feeling wounded, guarded, and unsure how to move forward. The good news is that with time, honesty, and consistent effort, trust can be rebuilt—even stronger than before.
+      </p>
+
+      <h3>1. Pause Before Repairing</h3>
+      <p>
+        When emotions are high, the nervous system is in protection mode. Before trying to repair the relationship, take time to calm your body. Deep breathing, a short walk, or silent reflection can help regulate your emotional state so you can re-engage from a place of balance rather than reactivity.
+      </p>
+
+      <h3>2. Take Responsibility Without Defensiveness</h3>
+      <p>
+        Healing begins with accountability. If you’ve caused hurt, offer a sincere apology that acknowledges impact, not just intention. Saying “I can see how my words hurt you” goes further than “I didn’t mean to.” Taking responsibility signals safety and opens the door to trust.
+      </p>
+
+      <h3>3. Allow Space for Emotions</h3>
+      <p>
+        Both partners may experience sadness, anger, or shame after conflict. Avoid rushing the process. Emotional validation—simply allowing feelings to be seen and heard without judgment—is one of the most powerful tools for repair. In counselling, we often describe this as <strong>“co-regulation”</strong>: one person’s calm presence helping the other’s nervous system to settle.
+      </p>
+
+      <h3>4. Rebuild Through Consistency</h3>
+      <p>
+        Trust isn’t restored through one conversation—it’s rebuilt over time through reliability. Keep your word, follow through on promises, and show emotional availability. Small, consistent actions communicate, “You can depend on me,” which gradually restores safety in the relationship.
+      </p>
+
+      <h3>5. Invite Spiritual Healing</h3>
+      <p>
+        From an Islamic perspective, forgiveness and renewal are central to healing. The Prophet ﷺ said, “The best of you are those who are best to their families.” Rebuilding trust becomes not just an emotional act, but an act of worship—choosing compassion, patience, and mercy even when it feels difficult.
+      </p>
+
+      <p>
+        Remember: reconciliation doesn’t mean forgetting or minimising pain. It means transforming it into deeper understanding, empathy, and care. With sincere intention and consistent effort, conflict can become a doorway to greater closeness and mutual growth.
+      </p>
+    </>
+  )
+},
+{
+  slug: 'emotional-safety-in-islamic-marriage',
+  title: 'Emotional Safety in Islamic Marriage',
+  summary: 'Understanding the importance of emotional safety as a foundation for trust, love, and spiritual harmony in marriage.',
+  content: (
+    <>
+      <p>
+        A truly Islamic marriage is built not just on love, but on <strong>tranquillity, mercy, and mutual respect</strong>. The Qur’an describes this bond beautifully: “And among His signs is that He created for you mates from among yourselves that you may find tranquillity in them; and He placed between you affection and mercy” (Qur’an 30:21). At the heart of this verse lies the essence of <em>emotional safety</em>—the feeling that you can be your authentic self, without fear of being dismissed, shamed, or invalidated.
+      </p>
+
+      <h3>1. What Emotional Safety Means</h3>
+      <p>
+        Emotional safety is the sense that your inner world—your thoughts, needs, and feelings—will be met with understanding rather than judgment. In a marriage, this safety allows couples to communicate openly, express vulnerability, and repair conflict with compassion. Without it, partners may withdraw, shut down, or feel constantly on edge.
+      </p>
+
+      <h3>2. The Prophet ﷺ as a Model of Gentleness</h3>
+      <p>
+        The Prophet Muhammad ﷺ embodied emotional safety in his relationships. He listened attentively, never raised his voice in anger, and validated the emotions of those around him. When Aisha (RA) was upset, he comforted her with empathy. His example shows that gentleness is not weakness—it’s strength guided by wisdom and compassion.
+      </p>
+
+      <h3>3. Practical Steps to Build Safety</h3>
+      <ul>
+        <li><strong>Listen without interrupting:</strong> Let your partner finish speaking before responding. It shows respect and helps prevent escalation.</li>
+        <li><strong>Validate emotions:</strong> Even if you disagree with the content, acknowledge the feeling: “I can see you’re hurt,” or “That must have been difficult.”</li>
+        <li><strong>Avoid criticism and contempt:</strong> Replace blame with curiosity. Ask, “Can you help me understand what you’re feeling right now?”</li>
+        <li><strong>Offer repair attempts:</strong> A gentle touch, a smile, or a kind word after tension signals a desire to reconnect.</li>
+      </ul>
+
+      <h3>4. A Spiritual Dimension to Emotional Safety</h3>
+      <p>
+        When couples nurture emotional safety, they also nurture their spiritual bond. A peaceful home reflects a heart aligned with Allah’s attributes—<em>Ar-Rahman</em> (The Most Compassionate) and <em>As-Salam</em> (The Source of Peace). Creating emotional safety is therefore an act of worship, as it mirrors the divine qualities of mercy and calmness.
+      </p>
+
+      <h3>5. When Emotional Safety Is Missing</h3>
+      <p>
+        If conflict or past hurt has damaged the sense of safety in your relationship, counselling can provide a neutral, supportive space to begin healing. Together, partners can learn new tools for communication, emotional regulation, and rebuilding trust—restoring the tranquillity that Allah intended between spouses.
+      </p>
+
+      <p>
+        Emotional safety doesn’t require perfection; it requires presence. When both partners commit to kindness, curiosity, and spiritual awareness, the marriage becomes not just a source of companionship, but a path to inner peace and divine closeness.
+      </p>
+    </>
+  )
+}
+,
+  
   {
   slug: 'islamic-perspective-on-wellbeing',
   title: 'An Islamic Perspective on Wellbeing',
