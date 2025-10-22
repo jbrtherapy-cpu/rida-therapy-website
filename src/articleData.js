@@ -50,16 +50,109 @@ export const articleData = [
     )
   },
   {
-    slug: 'islamic-wellbeing',
-    title: 'An Islamic Perspective on Wellbeing',
-    summary: 'Guidance rooted in Islamic psychology to help you find peace, purpose, and contentment.',
-    content: (
-      <>
-        <p>In Islamic psychology, wellbeing is a holistic state that connects the heart, mind, and soul. It is about finding your "Rida" (contentment).</p>
-        <p><strong>(Full article content will go here...)</strong></p>
-      </>
-    )
-  },
+  slug: 'islamic-perspective-on-wellbeing',
+  title: 'An Islamic Perspective on Wellbeing',
+  summary: 'Explore how Islamic principles nurture emotional balance, reduce stress, and support holistic healing of mind, body, and soul.',
+  content: (
+    <>
+      <p>
+        In our modern world, many people struggle to stay grounded. The constant pressures of work, relationships, and life changes can lead to stress, anxiety, and emotional exhaustion. From an Islamic perspective, wellbeing is not just the absence of distress — it is a state of harmony between the heart, mind, body, and soul.
+      </p>
+
+      <p>
+        Islam offers profound psychological wisdom: it guides us toward balance, self-awareness, and connection with Allah — all of which are key to emotional healing and resilience. Below are some gentle, practical ways rooted in the Islamic tradition to support your mental and spiritual wellbeing.
+      </p>
+
+      <h3>1. Soothe the Nervous System through Dhikr (Remembrance of Allah)</h3>
+      <p>
+        The Qur’an reminds us: <em>“Verily, in the remembrance of Allah do hearts find rest.”</em> (13:28)
+      </p>
+      <p>
+        From a therapeutic lens, <strong>Dhikr</strong> is a mindfulness practice. The rhythmic repetition of Allah’s names slows the breath, regulates the body’s stress response, and brings the heart back to safety. It’s a simple yet powerful way to anchor yourself when feeling overwhelmed or anxious.
+      </p>
+      <p>
+        <strong>Try this:</strong> When you notice tension in your body, pause and repeat <em>SubhanAllah</em>, <em>Alhamdulillah</em>, or <em>La ilaha illa Allah</em> slowly — synchronising each phrase with your breath. This can help the body feel calm and the mind more centred.
+      </p>
+
+      <h3>2. Cultivate Balance (Mīzān) in Daily Life</h3>
+      <p>
+        Emotional wellbeing depends on balance — something Islam calls <em>mīzān</em>. The Prophet ﷺ said: <em>“Your body has a right over you, your eyes have a right over you, and your spouse has a right over you.”</em> (Bukhari)
+      </p>
+      <p>
+        This holistic approach mirrors what counselling calls <strong>self-regulation</strong>: knowing when to rest, when to engage, and when to reflect. When we neglect sleep, nourishment, or spiritual connection, stress accumulates and emotional resilience weakens. Islam encourages moderation in all things — a balance that restores harmony between body and soul.
+      </p>
+      <ul>
+        <li>Have I rested adequately?</li>
+        <li>Have I nourished my body kindly?</li>
+        <li>Have I prayed or reflected with presence?</li>
+        <li>Have I connected with supportive people?</li>
+      </ul>
+      <p>
+        Small, balanced acts prevent burnout and foster emotional steadiness.
+      </p>
+
+      <h3>3. Strengthen Connection and Compassion</h3>
+      <p>
+        Human beings are created for connection. The Prophet ﷺ likened believers to a structure, saying: <em>“The believer to the believer is like a building, each part strengthening the other.”</em> (Bukhari &amp; Muslim)
+      </p>
+      <p>
+        Healthy relationships are one of the most powerful buffers against stress and emotional distress. In counselling terms, <strong>safe connection regulates our nervous system</strong>; it tells us we are not alone. Acts of empathy, kindness, and forgiveness soften the heart and help us heal from experiences of disconnection or rejection.
+      </p>
+      <p>
+        <strong>Try this:</strong> Reach out to one person this week — not to fix or advise, but to listen and be present. Connection itself is healing.
+      </p>
+
+      <h3>4. Reconnect with Intention and Meaning (Niyyah)</h3>
+      <p>
+        When life feels chaotic, grounding yourself in intention brings clarity and emotional calm. The Prophet ﷺ said: <em>“Actions are judged by intentions.”</em> (Bukhari &amp; Muslim)
+      </p>
+      <p>
+        In therapy, reconnecting with <strong>why</strong> we do something restores agency and reduces stress. Intention transforms daily acts — working, cooking, resting — into meaningful worship. It turns “I have to” into “I choose to, for Allah.”
+      </p>
+      <p>
+        <strong>Try this:</strong> Before beginning your day, take a slow breath and say: <em>“Ya Allah, help me move through today with peace and sincerity.”</em> This simple pause can transform your mindset from pressure to purpose.
+      </p>
+
+      <h3>5. Practice Gratitude and Acceptance (Shukr &amp; Rida)</h3>
+      <p>
+        Gratitude and acceptance are powerful emotional regulators. <em>Shukr</em> rewires the mind to notice safety and goodness; <em>rida</em> teaches gentle acceptance of what we can’t control. Together, they nurture resilience and reduce anxiety.
+      </p>
+      <p>
+        <strong>Try this:</strong> Each night, write down three moments you felt cared for — by Allah or others. Over time, this practice quiets inner criticism and increases emotional balance.
+      </p>
+
+      <h3>6. Honour the Body as a Trust (Amānah)</h3>
+      <p>
+        Our physical state profoundly affects our emotional health. The Prophet ﷺ modelled moderation in eating, sleep, and activity — principles that align with modern psychology’s understanding of self-care and somatic wellbeing. A tired or tense body cannot process emotion easily; by caring for the body, we create space for healing.
+      </p>
+      <p>
+        <strong>Try this:</strong> Treat a simple act — like walking, stretching, or deep breathing — as <em>ibadah</em>. Whisper <em>Alhamdulillah</em> for the body Allah has given you. This reframes self-care as spiritual care.
+      </p>
+
+      <h3>7. Use Du‘a as Emotional Release and Trust (Tawakkul)</h3>
+      <p>
+        In counselling, emotional release — crying, expressing, naming — helps integrate pain. In Islam, <strong>du‘a</strong> is the heart’s release before the One who understands us completely. It bridges emotional honesty with spiritual surrender.
+      </p>
+      <p>
+        When you bring your distress to Allah, you are not weak — you are returning to safety. You are saying, “I do not have to carry this alone.”
+      </p>
+      <p>
+        <strong>Try this:</strong> In moments of anxiety or helplessness, repeat: <em>“HasbunAllahu wa ni‘ma al-wakeel.”</em> Let each repetition be an exhale of what you no longer need to hold.
+      </p>
+
+      <h3>In Summary</h3>
+      <p>
+        From an Islamic lens, wellbeing isn’t the absence of struggle — it’s the presence of inner balance, compassion, and trust in Allah. Through remembrance, balance, connection, intention, gratitude, care, and du‘a, we regulate both body and soul.
+      </p>
+      <p>
+        As Allah says: <em>“O tranquil soul, return to your Lord, well-pleased and pleasing.”</em> (89:27–28)
+      </p>
+      <p>
+        May this return — to presence, to balance, and to Allah — be the foundation of your healing journey.
+      </p>
+    </>
+  )
+},
   {
     slug: 'islamic-psychology-rida-wellbeing',
     title: 'The Role of Rida in Islamic Psychology: A Path to Holistic Wellbeing',
