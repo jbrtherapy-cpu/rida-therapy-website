@@ -27,17 +27,86 @@ export const articleData = [
       </>
     )
   },
-  {
-    slug: 'navigating-stress',
-    title: '5 Tools for Navigating Stressful Times',
-    summary: 'Actionable techniques to manage stress, avoid burnout, and build resilience in your daily life.',
-    content: (
-      <>
-        <p>Stress is a part of life, but it doesn't have to rule it. Here are five tools to help you build resilience.</p>
-        <p><strong>(Full article content will go here...)</strong></p>
-      </>
-    )
-  },
+ {
+  slug: '5-tools-for-navigating-stressful-times',
+  title: '5 Tools for Navigating Stressful Times',
+  summary: 'Learn five practical tools to help you manage stress, regulate your emotions, and find calm during challenging times.',
+  content: (
+    <>
+      <p>
+        Stressful seasons are part of being human. Whether it’s uncertainty about the future, emotional strain in relationships, or simply the demands of everyday life, stress can leave us feeling tense, scattered, and disconnected from ourselves. 
+      </p>
+
+      <p>
+        The good news is that our bodies and hearts are designed to recover. With gentle awareness and the right tools, you can support your mind and nervous system to move from survival mode back into safety and balance. Below are five tools to help you navigate stressful times with greater calm and resilience.
+      </p>
+
+      <h3>1. Ground Yourself in the Present Moment</h3>
+      <p>
+        When stress hits, the mind often races into “what ifs.” Grounding brings you back to the here and now — where your body feels safe. In counselling, this is called <strong>anchoring</strong>; in spiritual language, it is <em>presence</em>.
+      </p>
+      <p>
+        <strong>Try this:</strong> Name out loud five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. Then take a slow breath and remind yourself, “In this moment, I am safe.”  
+      </p>
+      <p>
+        This simple technique helps regulate the nervous system and interrupts spirals of anxiety.
+      </p>
+
+      <h3>2. Breathe with Intention</h3>
+      <p>
+        Shallow breathing is a common stress response. It keeps the body in a state of alertness. By slowing your breath, you signal to the brain that you’re not in danger — activating the body’s natural relaxation system.
+      </p>
+      <p>
+        <strong>Try this:</strong> Inhale gently through your nose for four counts, hold for two, and exhale through your mouth for six. Repeat for one minute. As you exhale, silently say <em>“Ya Rahman”</em> — calling on Allah’s mercy to soften and steady your heart.
+      </p>
+      <p>
+        Even one minute of intentional breathing can shift your body from tension to ease.
+      </p>
+
+      <h3>3. Engage in Small Acts of Connection</h3>
+      <p>
+        Stress often isolates us. Yet connection — with others and with Allah — helps the body feel safe again. Reaching out, sharing, or even smiling at someone can restore the sense that you belong and are supported.
+      </p>
+      <p>
+        <strong>Try this:</strong> Send a short message to a friend or family member simply saying, “Thinking of you.” Or, if you feel alone, turn to Allah in a moment of quiet <em>du‘a</em>, whispering what’s on your heart. Both types of connection — human and divine — regulate the heart and reduce feelings of overwhelm.
+      </p>
+
+      <h3>4. Soothe the Body Through Movement and Rest</h3>
+      <p>
+        The body stores stress, often as tightness, fatigue, or pain. Gentle movement helps release this built-up tension. Whether through walking, stretching, or mindful exercise, physical movement allows emotions to flow rather than stay trapped.
+      </p>
+      <p>
+        Equally, rest is vital. Many people under stress push harder instead of pausing. Yet healing happens when the nervous system feels permission to slow down.
+      </p>
+      <p>
+        <strong>Try this:</strong> Set aside ten minutes a day for slow, mindful movement — or simply lie down, place your hand on your heart, and breathe. Tell yourself, “I am allowed to rest.” 
+      </p>
+
+      <h3>5. Reframe and Reconnect to Meaning</h3>
+      <p>
+        In counselling, we often explore the stories we tell ourselves in difficult times. Stressful experiences can trigger thoughts like “I can’t handle this” or “Something is wrong with me.” Reframing these thoughts helps build resilience and hope.
+      </p>
+      <p>
+        From an Islamic lens, reframing aligns with <em>tawakkul</em> — trusting that Allah’s wisdom extends beyond our current view. You might not be able to change a situation immediately, but you can choose how to meet it.
+      </p>
+      <p>
+        <strong>Try this:</strong> When you notice a painful thought, gently respond with compassion: “This is hard, and Allah is with me in it.” That small shift can open a doorway from despair to patience and trust.
+      </p>
+
+      <h3>In Summary</h3>
+      <p>
+        Navigating stress is not about avoiding hardship; it’s about cultivating steadiness and self-compassion through it. By grounding, breathing, connecting, moving, and reframing, you support both body and soul to regulate and recover.
+      </p>
+      <p>
+        These are not quick fixes, but daily practices — gentle reminders that peace is possible, even in the middle of uncertainty. 
+      </p>
+      <p>
+        As the Qur’an reassures us: <em>“Indeed, with hardship comes ease.”</em> (94:6)
+      </p>
+    </>
+  )
+},
+
   {
     slug: 'stronger-relationships',
     title: 'Foundations of a Stronger Relationship',
