@@ -1,6 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Used for the "Back to Home" link
-import '../AdviceHubPage.css'; // We will create this new CSS file
+import { Link } from 'react-router-dom';
+import '../AdviceHubPage.css';
+import articleData from '../articleData'; // 1. IMPORT YOUR ARTICLE DATA
 
 function AdviceHubPage() {
   return (
@@ -11,26 +12,18 @@ function AdviceHubPage() {
           <p>A collection of resources designed to support your mental and spiritual wellbeing. Please select a topic to learn more.</p>
         </div>
         <div className="hub-grid">
-          <div className="article-card">
-            <h3>A Practical Guide to Managing Anxiety</h3>
-            <p>Learn to understand the triggers of anxiety and discover practical tools to calm your mind.</p>
-            <span>Read More ▸</span>
-          </div>
-          <div className="article-card">
-            <h3>5 Tools for Navigating Stressful Times</h3>
-            <p>Actionable techniques to manage stress, avoid burnout, and build resilience in your daily life.</p>
-            <span>Read More ▸</span>
-          </div>
-          <div className="article-card">
-            <h3>Foundations of a Stronger Relationship</h3>
-            <p>Explore key communication and connection strategies to help you and your partner feel like a team again.</p>
-            <span>Read More ▸</span>
-          </div>
-          <div className="article-card">
-            <h3>An Islamic Perspective on Wellbeing</h3>
-            <p>Guidance rooted in Islamic psychology to help you find peace, purpose, and contentment.</p>
-            <span>Read More ▸</span>
-          </div>
+          
+          {/* 2. DYNAMICALLY CREATE CARDS FROM YOUR DATA */}
+          {articleData.map((article) => (
+            <Link to={`/advice-hub/${article.slug}`} key={article.slug} className="article-card-link">
+              <div className="article-card">
+                <h3>{article.title}</h3>
+                <p>{article.summary}</p>
+                <span>Read More ▸</span>
+              </div>
+            </Link>
+          ))}
+
         </div>
         <div className="back-link-container">
           <Link to="/" className="back-link">← Back to Home</Link>

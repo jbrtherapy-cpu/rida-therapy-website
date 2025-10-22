@@ -74,3 +74,9 @@
 .back-link:hover {
   color: var(--primary-color);
 }
+/* ... all your existing styles ... */
+
+.article-card-link {
+  text-decoration: none; /* This removes the underline from the link */
+  color: inherit;
+}

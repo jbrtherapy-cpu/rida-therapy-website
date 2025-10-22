@@ -1,0 +1,38 @@
+.article-page {
+  padding: 60px 0;
+}
+
+.article-content {
+  max-width: 750px; /* Optimal width for reading */
+  margin: 0 auto;
+  background: var(--light-text);
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.article-content h1 {
+  font-size: 2.8rem;
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.article-content h3 {
+  font-size: 1.5rem;
+  color: var(--dark-text);
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.article-content p, 
+.article-content li {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+.article-content ul {
+  padding-left: 30px;
+}
