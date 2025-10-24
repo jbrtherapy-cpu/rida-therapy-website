@@ -8,6 +8,7 @@ import './Footer.css'; // 2. IMPORT FOOTER CSS
 import HomePage from './pages/HomePage';
 import AdviceHubPage from './pages/AdviceHubPage';
 import ArticlePage from './pages/ArticlePage';
+import './ContactForm.css';
 
 function App() {
   return (
