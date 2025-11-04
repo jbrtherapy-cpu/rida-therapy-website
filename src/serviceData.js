@@ -52,29 +52,32 @@ export const serviceData = [
     summary: 'For the individual feeling pulled in a million directions. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.',
     content: (
       <>
-        <p>Anxiety can feel like a constant, underlying alarm bell you can't turn off. Stress, especially from work or family pressures, can leave you feeling perpetually reactive, overwhelmed, and unable to switch off. Whether you're a professional juggling deadlines or navigating complex cultural or family expectations, this constant state of high alert is exhausting.</p>
-        <p>It can feel like you're just surviving, not thriving. My goal is to help you move beyond this, to understand these feelings and build practical, lasting skills to regain a sense of calm and control.</p>
+        <p>Anxiety can manifest in many ways. Sometimes it’s a specific, looping worry. Other times, it’s a constant, underlying hum of stress you can't seem to shake. Whether you're a professional juggling deadlines or navigating complex family dynamics, this state is exhausting.</p>
+        <p>My goal is to help you move beyond this. There isn't just one way to tackle anxiety; it’s about finding the <strong>right combination of tools for you</strong>. My eclectic approach is designed to do just that.</p>
         
-        <h3>Our Approach to Anxiety & Stress</h3>
-        <p>My approach is not one-size-fits-all. First, we'll explore <strong>your</strong> specific experience. We will work together to identify the root causes of your stress and the triggers for your anxiety, always within your unique personal and, if relevant, cultural context.</p>
-        <p>I draw from evidence-based techniques, particularly <strong>Cognitive Behavioural Therapy (CBT)</strong>, which is highly effective for anxiety and stress. We'll work on practical, in-the-moment tools you can use right away, including:</p>
+        <h3>Part 1: Changing Your Thoughts (CBT)</h3>
+        <p>A significant part of anxiety is often fueled by "distorted thoughts" — a mental filter that magnifies the negative and discounts the positive. Using techniques from <strong>Cognitive Behavioural Therapy (CBT)</strong>, we can actively work to solve this. We will learn to:</p>
         <ul>
-          <li>Learning to identify and gently challenge the negative thought patterns and "what-if" cycles that fuel anxiety.</li>
-          <li>Developing grounding techniques to manage panic or overwhelming feelings as they happen, bringing you back to the present moment.</li>
-          <li>Building effective boundary-setting skills—a crucial tool for overwhelmed professionals and those with demanding family expectations.</li>
-          <li>Exploring relaxation and mindfulness practices designed to calm your nervous system and reduce the baseline level of stress.</li>
+          <li><strong>Identify:</strong> Become aware of these automatic negative thoughts as they happen. We'll catch the "what-if" cycles and the "all-or-nothing" thinking.</li>
+          <li><strong>Challenge:</strong> Gently question these thoughts. Are they 100% true? What's the evidence? What is a more balanced, realistic way to see this?</li>
+          <li><strong>Reframe:</strong> Actively replace these distorted thoughts with more helpful and accurate ones, reducing their power and emotional impact.</li>
         </ul>
         
-        <h3>Sessions & Duration</h3>
-        <p>Therapy is a personal journey, so the duration varies for everyone. Here’s what you can typically expect:</p>
+        <h3>Part 2: Changing Your Relationship with Anxiety (Acceptance)</h3>
+        <p>But what about the anxiety that just... *is*? For general, persistent anxiety, sometimes the *struggle itself* is the problem. Fighting the feeling only seems to make it stronger.</p>
+        <p>Here, we will use powerful <strong>Acceptance-based techniques</strong> (from models like Acceptance and Commitment Therapy, or ACT). This approach isn't about *eliminating* anxiety, but about *changing your relationship with it*. We'll work on:</p>
         <ul>
-          <li><strong>Weekly Sessions:</strong> We will usually meet for 50 minutes once a week. This consistency is key to building momentum and making real progress, especially at the beginning.</li>
-          <li><strong>Duration:</strong> Some clients find they have a new, effective toolkit and feel significant relief within <strong>8-12 sessions</strong>. For others, particularly those working through deeper-rooted patterns or related generational trauma, our work may be longer-term.</li>
+          <li><strong>Acceptance:</strong> Learning to make space for anxious feelings without struggling against them or letting them define you.</li>
+          <li><strong>Defusion:</strong> Seeing your thoughts as just "thoughts"—passing mental events—rather than absolute truths that must control your actions.</li>
+          <li><strong>Values-Based Action:</strong> Identifying what truly matters to you (your values) and taking committed steps toward them, *even with anxiety present*.</li>
         </ul>
-        <p>We will regularly review our progress together to ensure our sessions remain focused, effective, and are always moving you toward your goals.</p>
 
-        <h3>Your Path to a Calmer Mind</h3>
-        <p>You don't have to be in a constant state of high alert. Imagine feeling in control, making decisions with clarity, and having the mental space to actually enjoy your life. That is what we'll work towards together. You can find <strong>your</strong> Rida—your sense of peace and contentment.</p>
+        <h3>How This Eclectic Approach Brings You 'Rida'</h3>
+        <p>This is how we find your <strong>Rida (contentment)</strong>. An eclectic approach gives us two powerful paths: CBT helps you solve the "solvable" parts of your anxiety—the distorted thoughts you can actively change. Acceptance techniques help you find peace with the "unsolvable" parts—the general feelings you can learn to live with, without letting them stop you from building a meaningful life.</p>
+        <p>By blending these, you build a complete toolkit. You learn when to challenge your mind and when to accept it, allowing you to regain control and find a lasting sense of inner calm.</p>
+
+        <h3>Sessions & Duration</h3>
+        <p>We will typically meet for 50 minutes once a week. The total duration varies for everyone. Some clients find new, effective tools within <strong>8-12 sessions</strong>. For others, this work is part of a longer-term journey. We will regularly review our progress to ensure our sessions are always focused on your goals.</p>
       </>
     )
   },
