@@ -52,10 +52,29 @@ export const serviceData = [
     summary: 'For the individual feeling pulled in a million directions. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.',
     content: (
       <>
-        <p>For the individual feeling pulled in a million directions. We'll work together to move you from being constantly reactive to feeling proactive and in control. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.</p>
+        <p>Anxiety can feel like a constant, underlying alarm bell you can't turn off. Stress, especially from work or family pressures, can leave you feeling perpetually reactive, overwhelmed, and unable to switch off. Whether you're a professional juggling deadlines or navigating complex cultural or family expectations, this constant state of high alert is exhausting.</p>
+        <p>It can feel like you're just surviving, not thriving. My goal is to help you move beyond this, to understand these feelings and build practical, lasting skills to regain a sense of calm and control.</p>
         
-        <h3>How It Works</h3>
-        <p>(Add more detail here about how you specifically treat anxiety and stress...)</p>
+        <h3>Our Approach to Anxiety & Stress</h3>
+        <p>My approach is not one-size-fits-all. First, we'll explore <strong>your</strong> specific experience. We will work together to identify the root causes of your stress and the triggers for your anxiety, always within your unique personal and, if relevant, cultural context.</p>
+        <p>I draw from evidence-based techniques, particularly <strong>Cognitive Behavioural Therapy (CBT)</strong>, which is highly effective for anxiety and stress. We'll work on practical, in-the-moment tools you can use right away, including:</p>
+        <ul>
+          <li>Learning to identify and gently challenge the negative thought patterns and "what-if" cycles that fuel anxiety.</li>
+          <li>Developing grounding techniques to manage panic or overwhelming feelings as they happen, bringing you back to the present moment.</li>
+          <li>Building effective boundary-setting skills—a crucial tool for overwhelmed professionals and those with demanding family expectations.</li>
+          <li>Exploring relaxation and mindfulness practices designed to calm your nervous system and reduce the baseline level of stress.</li>
+        </ul>
+        
+        <h3>Sessions & Duration</h3>
+        <p>Therapy is a personal journey, so the duration varies for everyone. Here’s what you can typically expect:</p>
+        <ul>
+          <li><strong>Weekly Sessions:</strong> We will usually meet for 50 minutes once a week. This consistency is key to building momentum and making real progress, especially at the beginning.</li>
+          <li><strong>Duration:</strong> Some clients find they have a new, effective toolkit and feel significant relief within <strong>8-12 sessions</strong>. For others, particularly those working through deeper-rooted patterns or related generational trauma, our work may be longer-term.</li>
+        </ul>
+        <p>We will regularly review our progress together to ensure our sessions remain focused, effective, and are always moving you toward your goals.</p>
+
+        <h3>Your Path to a Calmer Mind</h3>
+        <p>You don't have to be in a constant state of high alert. Imagine feeling in control, making decisions with clarity, and having the mental space to actually enjoy your life. That is what we'll work towards together. You can find <strong>your</strong> Rida—your sense of peace and contentment.</p>
       </>
     )
   },
