@@ -49,10 +49,10 @@ export const serviceData = [
   {
     slug: 'anxiety-stress',
     title: 'Anxiety & Stress Management',
-    summary: 'For the professional feeling pulled in a million directions. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.',
+    summary: 'For the individual feeling pulled in a million directions. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.',
     content: (
       <>
-        <p>For the professional feeling pulled in a million directions. We'll work together to move you from being constantly reactive to feeling proactive and in control. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.</p>
+        <p>For the individual feeling pulled in a million directions. We'll work together to move you from being constantly reactive to feeling proactive and in control. Learn practical tools to navigate pressure with serenity and find a healthier work-life balance.</p>
         
         <h3>How It Works</h3>
         <p>(Add more detail here about how you specifically treat anxiety and stress...)</p>
