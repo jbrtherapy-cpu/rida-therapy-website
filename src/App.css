@@ -193,3 +193,28 @@ section h2 {
   font-size: 0.9rem;
   color: #666;
 }
+
+/* --- Additions for Service Cards --- */
+
+.service-card-link {
+  text-decoration: none; /* Removes underline from the link */
+  color: inherit;
+  display: flex; /* Makes the card fill the link area */
+  flex-direction: column;
+}
+
+.service-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Makes all cards in a row the same height */
+}
+
+.service-card p {
+  flex-grow: 1; /* Pushes the "Read More" to the bottom */
+}
+
+.service-card span {
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-top: 15px;
+}
